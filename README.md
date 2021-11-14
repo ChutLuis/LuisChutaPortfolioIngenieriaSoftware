@@ -12,4 +12,6 @@
 
 Esto como tiene como objetivo evaluar nuestros entregables y conocimimentos adquiridos a lo largo de el curso de Ingeniería de Software I.
 
-<div style="text-align:center;font-weight: 1;font-style: italic;"> Guatemala de la Asuncion, 14 de Noviembre de 2021</div>
+
+<p align="center"> Guatemala de la Asuncion, 14 de Noviembre de 2021</p>
+
