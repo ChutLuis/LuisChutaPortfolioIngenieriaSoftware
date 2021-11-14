@@ -7,10 +7,15 @@
  2. Si tuviera que volver a producir el artefacto, ¿qué cambiaría? ¿Qué mejoraría?
 > <p align="justify">Ser mas conciso con mis respuestas y tener una mejor fundamentacion teorica</p>
  
+ 
  3. Red semántica de conceptos de ingeniería de software asociadas al artefacto.
 
           a. Que es la Ingenieria de Software
+          La ingeniería de software es el establecimiento y uso de principios fundamentales de la ingeniería con objeto de 
+          desarrollar de manera economica software que sea   confiable y que trabaje con eficiencia en maquinas reales
           b. Modelos de Proceso
+          Cuando se trabaja en la construcción de un producto o sistema, es importante ejecutar una serie de pasos predecibles -el mapa de carreteras que lo
+          ayuda a obtener a tiempo un resultado de alta calidad. El mapa que se sigue se llama “proceso del software”. 
 
  4. ¿Cómo contribuyó la ingeniería de software a mi misión de convertirme en ingeniero en informática y sistemas?
 
