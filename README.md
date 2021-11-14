@@ -15,6 +15,12 @@
 
 Esto como tiene como objetivo evaluar nuestros entregables y conocimimentos adquiridos a lo largo de el curso de Ingeniería de Software I.
 
+Version: 2.2.0
+```diff
+- 2 Cambios Mayores
++ 2 Cambios Menores
+! 0 Parches
+```
 
-<p align="center"> Guatemala de la Asuncion, 14 de Noviembre de 2021</p>
+*<p align="center"> Guatemala de la Asuncion, 14 de Noviembre de 2021</p>*
 
