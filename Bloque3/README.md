@@ -1,5 +1,9 @@
 # Bloque 2
-![Logo Landivar](https://i.imgur.com/3bc97R1.png)
+#### https://sway.office.com/oBNET655NyQ7T77e?ref=Link
+<div align="center">
+ <img src= "https://i.imgur.com/3bc97R1.png">
+</div>
+
 ### Objetivo de este portafolio
  1. ¿Por qué se eligió el artefacto?
   > <p align="justify">Esta fue nuestro Liderazgo para el proyecto de Ponencias, en el cual el grupo hablo mas que todo de las experiencias personales como estudiantes entrando a una empresa y empezar a usar metodologias agiles, especificamente SCRUM </p>
