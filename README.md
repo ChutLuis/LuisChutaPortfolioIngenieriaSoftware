@@ -15,10 +15,10 @@
 
 Esto como tiene como objetivo evaluar nuestros entregables y conocimimentos adquiridos a lo largo de el curso de Ingeniería de Software I.
 
-Version: 2.6.0
+Version: 2.11.0
 ```diff
-- 2 Cambios Mayores
-+ 6 Cambios Menores
+- 4 Cambios Mayores
++ 11 Cambios Menores
 ! 0 Parches
 ```
 
