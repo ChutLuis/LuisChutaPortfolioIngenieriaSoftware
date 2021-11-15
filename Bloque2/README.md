@@ -9,8 +9,8 @@
 > <p align="justify">Mejorar el tiempo de mi presentacion asi como expandir mas en mis experiencias personales con SCRUM</p>
  
  3. Red semántica de conceptos de ingeniería de software asociadas al artefacto.
-
-          a. Agile
+#### Agile </br>
+ > <p p align="justify"> La ingeniería de software ágil combina una filosofía con un conjunto de lineamientos de desarrollo. La filosofía pone el énfasis en: la satisfacción del  cliente y en la entrega rápida de software incremental, los equipos pequeños y muy motivados para efectuar el proyecto, los métodos informales, los productos del trabajo con mínima ingeniería de software y la sencillez general en el desarrollo. Los lineamientos de desarrollo enfatizan la entrega sobre el análisis y el diseño (aunque estas actividades no se desalientan) y la comunicación activa y continua entre desarrolladores y clientes.</p>
 
  4. ¿Cómo contribuyó la ingeniería de software a mi misión de convertirme en ingeniero en informática y sistemas?
 
